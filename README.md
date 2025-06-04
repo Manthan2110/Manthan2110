@@ -50,3 +50,7 @@ I combine technical skills with creative thinking, and I’m always looking to l
 ---
 
 > ✨ *“Behind every dataset lies a story — I just help it speak.”*
+
+---
+
+Feel free to connect, collaborate, or just say hi!😄
