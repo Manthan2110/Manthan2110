@@ -15,7 +15,7 @@ Curious by nature and analytical by choice — I enjoy transforming raw data int
 I combine technical skills with creative thinking, and I’m always looking to learn something new, explore challenging problems, and collaborate on ideas that make a difference.
 
 - 🔍 Currently diving deeper into Data Science, NLP & APIs  
-- 📧 Reach me at: mnthanjadav746@gmail.com  
+- 📧 Reach me at: manthanjadav746@gmail.com  
 
 ---
 
@@ -58,14 +58,14 @@ I combine technical skills with creative thinking, and I’m always looking to l
 
 ### 💬 Most Used Languages:
 
-| Language     | Usage (%)   |
-|--------------|-------------|
-| PHP          | 30.39%      |
-| HTML         | 29.07%      |
-| JavaScript   | 21.22%      |
-| CSS          | 11.39%      |
-| SCSS         | 5.06%       |
-| Hack         | 2.87%       |
+| Language         | Usage (%)   |
+|------------------|-------------|
+| Python           | 30.39%      |
+| Power BI         | 29.07%      |
+| Excel            | 21.22%      |
+| Machine Learning | 11.39%      |
+| SQL              | 5.06%       |
+| Streamlit        | 2.87%       |
 
 ---
 
