@@ -56,16 +56,8 @@ I combine technical skills with creative thinking, and I’m always looking to l
 
 ---
 
-### 💬 Most Used Languages:
-
-| Language         | Usage (%)   |
-|------------------|-------------|
-| Python           | 30.39%      |
-| Power BI         | 29.07%      |
-| Excel            | 21.22%      |
-| Machine Learning | 11.39%      |
-| SQL              | 5.06%       |
-| Streamlit        | 2.87%       |
+## 📊 Most Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan-jadav&layout=compact)
 
 ---
 
