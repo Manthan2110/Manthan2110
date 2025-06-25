@@ -29,7 +29,7 @@ I combine technical skills with creative thinking, and I’m always looking to l
 
 --
 ## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manthan-jadav&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Manthan2110&show_icons=true&theme=radical)
 
 ---
 
