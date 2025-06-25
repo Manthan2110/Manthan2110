@@ -39,11 +39,6 @@ I combine technical skills with creative thinking, and I’m always looking to l
 
 ---
 
-## 🔗 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manthanjadav/)  
-
----
 
 ## 🛠 Tech Stack:
 
@@ -63,6 +58,15 @@ I combine technical skills with creative thinking, and I’m always looking to l
 ![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102542?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square)
+
+---
+
+## 🔗 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manthanjadav/)  
+
+---
+
 
 
 
