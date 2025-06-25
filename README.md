@@ -27,14 +27,15 @@ I combine technical skills with creative thinking, and I’m always looking to l
 - Data: NumPy, Pandas, Matplotlib  
 - Domain: NLP, Data Science, ML  
 
---
-## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Manthan2110&show_icons=true&theme=radical)
-
 ---
 
 ## 📊 Most Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan2110&layout=compact)
+
+
+
+
+
 
 ---
 
