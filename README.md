@@ -6,16 +6,25 @@
 
 ---
 
-## 👨‍💻 About Me:
+## 👨‍💻 Who Am I?
 
-Welcome to my GitHub portfolio! 
+I’m a data enthusiast who believes in solving real-world problems through intelligent data-driven solutions. From building machine learning models to crafting interactive dashboards, I thrive in projects where data meets decision-making.
 
-Curious by nature and analytical by choice — I enjoy transforming raw data into meaningful insights that make an impact. Whether it's cleaning messy datasets, building dashboards, or automating workflows, I find joy in solving real-world problems through data.
+I have experience across:
+- ✅ End-to-end ML model development
+- ✅ Streamlit & FastAPI-based data apps
+- ✅ Dashboards that turn raw data into actionable insights
+- ✅ Automating workflows and pipelines for business intelligence
 
-I combine technical skills with creative thinking, and I’m always looking to learn something new, explore challenging problems, and collaborate on ideas that make a difference.
+---
 
-- 🔍 Currently diving deeper into Data Science, NLP & APIs  
-- 📧 Reach me at: manthanjadav746@gmail.com  
+## 📍 Current Focus
+
+🚀 I’m currently:
+- Exploring **Large Language Models (LLMs)** and **Prompt Engineering**  
+- Building scalable apps with **Streamlit**, **FastAPI**, and **ML pipelines**  
+- Learning **Data Engineering workflows** & **Deployment (Docker, APIs)**  
+- Preparing for **PL-300 Power BI Certification**  
 
 ---
 
@@ -27,46 +36,68 @@ I combine technical skills with creative thinking, and I’m always looking to l
 - Data: NumPy, Pandas, Matplotlib  
 - Domain: NLP, Data Science, ML  
 
----
+## 📈 GitHub Stats
 
-## 📊 Most Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan2110&layout=compact)
-
-
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan2110&layout=compact&theme=radical)
+![Manthan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manthan2110&show_icons=true&theme=radical&hide=stars)
 
 ---
 
+## 🛠 Tech Stack
 
-## 🛠 Tech Stack:
+### 🔢 Languages & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
-![Power Query](https://img.shields.io/badge/-Power%20Query-00B386?style=flat-square&logo=microsoft-powerpoint)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102542?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square)
+### 🧠 Machine Learning & DL
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+![Power Query](https://img.shields.io/badge/-Power%20Query-00B386?style=flat)
+
+### 🌐 Web & App Dev
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+
+---
+
+## 📚 Learning & Certifications
+
+- 📌 *Microsoft PL-300: Power BI Data Analyst* (Preparing)
+- 📌 *DeepLearning.AI — Neural Networks & Deep Learning*
+- 📌 *Google Data Analytics Certificate* (Upcoming)
+- 📌 *Tata GenAI Powered Data Analytics*
+- 📌 *Accenture North America :  Data Analytics and Visualization*
+- 📌 *Make an Impact with Data Analytics by IBM*
 
 ---
 
-## 🔗 Socials:
+## 🎯 Career Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manthanjadav/)  
+I'm working toward a future as a:
+- 🔹 **Data Analyst**
+- 🔹 **AIML Engineer**
+- 🔹 **BI Developer**
+
+My mission is to bridge the gap between raw data and meaningful impact — one dataset at a time.
 
 ---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manthanjadav/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:manthanjadav746@gmail.com)
+
+---
+
+> 💬 *“Code with purpose. Analyze with curiosity. Visualize with clarity.”*
 
 
 
