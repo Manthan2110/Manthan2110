@@ -28,13 +28,15 @@ I have experience across:
 
 ---
 
-**Skills:**
+## **Skills:**
 - Programming: Python, SQL  
 - BI & Analytics: Power BI, Excel, Power Query  
 - Machine Learning: Scikit-learn, TensorFlow, Keras, Deep Learning  
 - APIs & Web: FastAPI, Streamlit  
 - Data: NumPy, Pandas, Matplotlib  
-- Domain: NLP, Data Science, ML  
+- Domain: NLP, Data Science, ML
+
+---
 
 ## 📈 GitHub Stats
 
