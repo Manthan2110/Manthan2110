@@ -41,7 +41,6 @@ I have experience across:
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan2110&layout=compact&theme=radical)
-![Manthan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manthan2110&show_icons=true&theme=radical&hide=stars)
 
 ---
 
