@@ -4,6 +4,7 @@
 <h3 align="center">About me</h3> 
 
 <p align="left">📊🚀 As a highly motivated Machine Learning Engineer and Data Analyst, I specialize in transforming raw data into meaningful insights and intelligent systems. Passionate about bridging the gap between real-world problems and AI-powered solutions, I thrive at the intersection of data, technology, and innovation—crafting tools that make decision-making smarter and faster.
+
 🧠 From designing multi-disease diagnostic platforms to building AI-driven chatbots and business dashboards, I bring hands-on expertise in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit. My work is not just about code—it's about creating intuitive experiences and delivering measurable value to end-users and organizations.
 
 🌍 As a former Data Science Association President, I led with purpose, empowering cross-functional teams and driving high-impact AI projects from concept to deployment. My philosophy—"Data is the revolution of the future. Let's lead it."—guides my approach to every challenge.
@@ -13,7 +14,7 @@
 Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manthan2110" alt="manthan2110" /></a> </p>
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 I’m currently working on Machine Learning projects.
 
 - 🌱 I’m currently learning **Transformers, Different ML/DL algorithms**
 
@@ -38,7 +39,6 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
  <div align="center"><h3 align="center">Languages & Libraries</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=61DAFB"  align="center" alt="python" />
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"  align="center" alt="numpy" />
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"  align="center" alt="pandas" />
@@ -77,7 +77,6 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-     <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
 </p>
     
 <br/>
