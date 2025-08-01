@@ -20,13 +20,13 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 🌱 I’m currently learning MERN stack
 
-- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/praveen-kumar-gonugunta/" target="_blank">LinkedIn</a> & GitHub
+- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/manthanjadav/" target="_blank">LinkedIn</a> & GitHub
 
-- 📫 Reach me on gpraveen957@gmail.com
+- 📫 Reach me on manthanjadav746@gmail.com
 
 - 💬 Open for your suggestions
  
-- 📄 Download my <a href= "https://drive.google.com/file/d/1Vfb9gBg_h6w7_-T8Pd_xNzdm6joyBpun/view?usp=sharing" target="_target">Resume</a>
+- 📄 Download my <a href= " " target="_target">Resume</a>
 
 - 👨‍💻 Portfolio <a href="https://gpk7036.github.io/" target="_blank"> Portfolio</a>
 
@@ -76,7 +76,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 Statistics  
 <!-- github status  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpk7036" alt="Praveen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manthan2110" alt="Praveen" /></a> </p>
 
 <div align="center" style="display: flex; gap:50px">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gpk7036&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
@@ -95,6 +95,6 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <h2 align="left">⚡Activity Graph:</h2>
 
-<a href="https://github.com/gpk7036"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gpk7036&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
+<a href="(https://github.com/Manthan2110)"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan2110&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
 <br> 
 
