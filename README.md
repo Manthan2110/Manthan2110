@@ -99,7 +99,7 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 </div>
 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gpk7036&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manthan2110&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 
 </div>
 
