@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Manthan Jadav</h1>
 <h3 align="center">About me</h3> 
 
-<p align="left">📊🚀 As a highly motivated Machine Learning Engineer and Data Analyst, I specialize in transforming raw data into meaningful insights and intelligent systems. Passionate about bridging the gap between real-world problems and AI-powered solutions, I thrive at the intersection of data, technology, and innovation—crafting tools that make decision-making smarter and faster.
+<p align="left">📊🚀 As a highly motivated Machine Learning Engineer and Data Analyst, I specialize in transforming raw data into meaningful insights and intelligent systems. Passionate about bridging the gap between real-world problems and AI-powered solutions, I thrive at the intersection of data, technology, and innovation crafting tools that make decision-making smarter and faster.
 
-🧠 From designing multi-disease diagnostic platforms to building AI-driven chatbots and business dashboards, I bring hands-on expertise in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit. My work is not just about code—it's about creating intuitive experiences and delivering measurable value to end-users and organizations.
+🧠 From designing multi-disease diagnostic platforms to building AI-driven chatbots and business dashboards, I bring hands-on expertise in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit. My work is not just about code it's about creating intuitive experiences and delivering measurable value to end-users and organizations.
 
-🌍 As a former Data Science Association President, I led with purpose, empowering cross-functional teams and driving high-impact AI projects from concept to deployment. My philosophy—"Data is the revolution of the future. Let's lead it."—guides my approach to every challenge.
+🌍 As a former Data Science Association President, I led with purpose, empowering cross-functional teams and driving high-impact AI projects from concept to deployment. My philosophy "Data is the revolution of the future. Let's lead it." guides my approach to every challenge.
 
 💡 I’ve tackled industry-level internships and capstone projects that showcase both technical depth and creative thinking, consistently blending machine intelligence with practical, real-world usability. Whether it’s a healthcare assistant, a book recommendation engine, or an interactive business dashboard, I aim to build AI systems that are not just smart—but human-centered and future-ready.
 
