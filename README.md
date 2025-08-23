@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" size = 40 src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 <h1 align="center">Hi 👋, I'm Manthan Jadav</h1>
-<h3 align="center">About me</h3> 
+<h3 align="center">About me</h3>
 
 <p align="left">📊🚀 As a highly motivated Machine Learning Engineer and Data Analyst, I specialize in transforming raw data into meaningful insights and intelligent systems. Passionate about bridging the gap between real-world problems and AI-powered solutions, I thrive at the intersection of data, technology, and innovation crafting tools that make decision-making smarter and faster.
 
