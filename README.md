@@ -95,7 +95,7 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com/?user=Manthan2110&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+<img src="https://streak-stats.demolab.com/?user=Manthan2110&theme=react&hide_border=true" style="width: 50%" />
 
 </div>
 
