@@ -3,38 +3,31 @@
 <h1 align="center">Hi 👋, I'm Manthan Jadav</h1>
 <h3 align="center">About me</h3>
 
-<p align="left">📊🚀 As a highly motivated Machine Learning Engineer and Data Analyst, I specialize in transforming raw data into meaningful insights and intelligent systems. Passionate about bridging the gap between real-world problems and AI-powered solutions, I thrive at the intersection of data, technology, and innovation crafting tools that make decision-making smarter and faster.
+- 🎓 I’m a recent Computer Science graduate passionate about building at the intersection of AI, Data Science, and Automations.<br>
+- 📍 Currently working on innovative automation projects while actively exploring the best opportunities to grow and contribute.
 
-🧠 From designing multi-disease diagnostic platforms to building AI-driven chatbots and business dashboards, I bring hands-on expertise in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit. My work is not just about code it's about creating intuitive experiences and delivering measurable value to end-users and organizations.
+<h4>⚙️ What I Do</h4>
 
-🌍 As a former Data Science Association President, I led with purpose, empowering cross-functional teams and driving high-impact AI projects from concept to deployment. My philosophy "Data is the revolution of the future. Let's lead it." guides my approach to every challenge.
+- 🚀 I design and develop AI-powered applications, data-driven dashboards, and intelligent automations that transform raw data into actionable insights.<br>
+- 🛠️ Skilled in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit, with hands-on experience from internships and real-world projects.
 
-💡 I’ve tackled industry-level internships and capstone projects that showcase both technical depth and creative thinking, consistently blending machine intelligence with practical, real-world usability. Whether it’s a healthcare assistant, a book recommendation engine, or an interactive business dashboard, I aim to build AI systems that are not just smart—but human-centered and future-ready.
+<h4>⚙️ What I Do</h4>
+
+- I believe data and automation are shaping the future.
+- My goal is to create human-centered, scalable AI systems that simplify decision-making, boost productivity, and drive positive change across industries.<br>
+<br>
 
 Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manthan2110" alt="manthan2110" /></a> </p>
-- 🔭 I’m currently working on Machine Learning projects.
-
-- 🌱 I’m currently learning **Transformers, Different ML/DL algorithms**
-
-- 👯 I’m looking to collaborate on **interesting data science projects**
-
-- 📫 Reach me on manthanjadav746@gmail.com
-
-- 💬 Open for your suggestions
- 
-- 📄 Download my <a href= " " target="_target">Resume</a>
-
-- 👨‍💻 Portfolio <a href="https://manthan2110.github.io/Portfolio/" target="_blank"> Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manthanjadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-harchandani-ba13801b5" height="30" width="40" /></a>
-<a href="https://instagram.com/manthan._2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan.har" height="30" width="40" /></a>
+<a href="https://instagram.com/manthan._2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manthan.har" height="30" width="40" /></a>
 </p>
 
-#### Cloud Certification  
+### Cloud Certification  
 <table>
   <tr>
     <td>Oracle Generative AI Professional</td>
