@@ -49,20 +49,43 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 <h2>🥇 Technical Skills:  </h2>  
 
- <div align="center"><h3 align="center">Languages & Libraries</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=61DAFB"  align="center" alt="python" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"  align="center" alt="numpy" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"  align="center" alt="pandas" />
+<div align="center"><h3 align="center">Languages</h3>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=61DAFB"  align="center" alt="python" />
+</div>
 
 <br/>
 <br/>
+<div align="center"><h3 align="center"> ML/DL Libraries</h3>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"  align="center" alt="numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"  align="center" alt="pandas" />
   <img src = "https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" align="center" alt="scikit-learn"/>
   <img src = "https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" align="center" alt="tenserflow"/>
   <img src = "https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" align="center" alt="keras"/>
+  <img src = "https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" align="center" alt="Plotly"/>
+  <img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="center" alt="matplotlib"/>
+  <img src = "https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" align="center" alt="opencv">
+</div>
   
 </div>
+<br/>
+
+<div align="center"><h3 align="center">GenAI</h3>
+  <img src = "https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" align="center" alt="HuggingFace"/>
+  <img src = "https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" align="center" alt="LangChain"/>
+  <img src = "https://img.shields.io/badge/-Power%20Query-00B386?style=flat&logo=power-query&logoColor=white" align="center" alt="powerquery"/>
+</div>
+
+<br/>
+
+<div align="center"><h3 align="center">LLMs API</h3>
+  <img src = "https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="OpenAI"/>
+  <img src = "https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" align="center" alt="Cluade"/>
+  <img src = "https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" align="center" alt="GoogleGemini"/>
+  <img src = "https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" align="center" alt="Perplexity"/> 
+</div>
+
 <br/>
 
 <div align="center"><h3 align="center">BI & Visualization</h3>
@@ -74,6 +97,7 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 <div align="center"><h3 align="center">Backend</h3> 
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" align="center" alt="streamlit" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" align="center" alt="fastapi"/>
+  <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" align="center" alt="Django">
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="flask"/>
   <img src="https://img.shields.io/badge/MySQL-%23015B85?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL"/>
 </div>
@@ -81,15 +105,16 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="vscode"/>
    <br/>
     <h3 align="center">IDEs/EDITORS</h3>
 <p align="center">
-     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" align="center" />
+     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" align="center" />
+     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" align="center" />
+     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" />
+     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" align="center"/>
 </p>
     
 <br/>
