@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" size = 40 src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
-<h1 align="center">Hi 👋, I'm Manthan Jadav</h1>
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Manthan Jadav</h1>
 <h3 align="center">About me</h3>
 
 - 🎓 I’m a recent Computer Science graduate passionate about building at the intersection of AI, Data Science, and Automations.<br>
@@ -10,12 +10,6 @@
 
 - 🚀 I design and develop AI-powered applications, data-driven dashboards, and intelligent automations that transform raw data into actionable insights.<br>
 - 🛠️ Skilled in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit, with hands-on experience from internships and real-world projects.
-
-<h4>⚙️ What I Do</h4>
-
-- I believe data and automation are shaping the future.
-- My goal is to create human-centered, scalable AI systems that simplify decision-making, boost productivity, and drive positive change across industries.<br>
-<br>
 
 Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
@@ -141,10 +135,15 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 
 </div>
 
-
-
 <h2 align="left">⚡Activity Graph:</h2>
 
 <a href="(https://github.com/Manthan2110)"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan2110&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
 <br> 
 
+<h2 align="left"> 🔗 Connect with Me: </h2>
+<p align="center"><a href="https://www.linkedin.com/in/manthanjadav/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>
+<a href="https://wa.me/919313039112" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:manthanjadav746@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://manthan2110.github.io/Portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
