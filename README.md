@@ -20,32 +20,11 @@
 - 🛠️ Skilled in Python, Machine Learning, NLP, Power BI, ETL pipelines, and Streamlit, with hands-on experience from internships and real-world projects.
 
 Let’s reshape the future through the power of data and purpose-driven AI. 🚀
+<br/>
 
----
-
-<!-- ===================== TROPHIES ===================== -->
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manthan2110" alt="manthan2110" />
-  </a>
-</p>
-
----
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/manthanjadav/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/manthan._2110" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 
@@ -72,6 +51,10 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
 </table>
 
 ---
+
+<h2> 🏆Trophies </h2><div align="center">
+  <img src="https://github-readme-stats-generator.onrender.com/api/trophies/Manthan2110/svg?theme=neon">
+</div>
 
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 
@@ -137,8 +120,6 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
   <img src="https://img.shields.io/badge/MySQL-%23015B85?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
----
-
 <!-- ===================== TOOLS & IDEs ===================== -->
 
 <div align="center">
@@ -159,31 +140,25 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 <!-- ===================== STATS ===================== -->
 
 ## 📊 Statistics  
 
 <div align="center">
-  <img src="https://github-readme-stats-generator.onrender.com/api/trophies/Manthan2110/svg?theme=neon">
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manthan2110&theme=react&hide_border=true&show_icons=true">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Manthan2110&theme=react&hide_border=true">
+  <img src="https://github-readme-stats-generator.onrender.com/api/streak/Manthan2110/svg?theme=react&hide_border=true&show_icons=true">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manthan2110&theme=vue">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manthan2110&theme=react">
 </div>
-
----
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
@@ -193,7 +168,9 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan2110&theme=react-dark&hide_border=true" width="100%">
 </a>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 <!-- ===================== FOOTER CONTACT ===================== -->
 
@@ -213,7 +190,3 @@ Let’s reshape the future through the power of data and purpose-driven AI. 🚀
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40">
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
